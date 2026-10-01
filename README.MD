@@ -1,6 +1,6 @@
 # Hi, I'm Dorian Emiliano 👋
 
-**Software engineering student**
+**Software development student**
 
 I enjoy building programs that work well and learning something new with every project. I'm currently practicing mobile development and uploading my academic and personal projects to GitHub.
 
