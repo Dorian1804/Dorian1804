@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="224" viewBox="0 0 760 224" role="img" aria-labelledby="title description">
+ <title id="title">Dorian's GitHub activity</title><desc id="description">54 recorded contributions; 1 day current streak; 2 day longest streak. GitHub data as of 2026-11-10.</desc>
+ <rect x="1" y="1" width="758" height="222" rx="16" fill="#101b27" stroke="#284050"/>
+ <text x="26" y="31" fill="#9bb3c2" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">BUILDING, ONE COMMIT AT A TIME</text>
+ <path d="M252 61v108M508 61v108" stroke="#2a4050"/>
+ <rect x="27" y="61" width="4" height="92" rx="2" fill="#42d5b5"/>
+ <text x="52" y="105" fill="#f0f7fb" font-family="Arial,sans-serif" font-size="40" font-weight="700">54</text>
+ <text x="52" y="134" fill="#70e1c8" font-family="Arial,sans-serif" font-size="16">Contributions</text>
+ <text x="52" y="155" fill="#9bb3c2" font-family="Arial,sans-serif" font-size="12">Since joining GitHub</text>
+ <circle cx="303" cy="93" r="19" fill="#1b3940"/><path d="m294 94 6 6 12-14" stroke="#70e1c8" stroke-width="3" fill="none" stroke-linecap="round"/>
+ <text x="339" y="106" fill="#f0f7fb" font-family="Arial,sans-serif" font-size="40" font-weight="700">1<tspan font-size="15" fill="#9bb3c2"> day</tspan></text>
+ <text x="284" y="142" fill="#70e1c8" font-family="Arial,sans-serif" font-size="16">Current streak</text>
+ <text x="284" y="163" fill="#9bb3c2" font-family="Arial,sans-serif" font-size="12">Consecutive active days</text>
+ <path d="m548 105 10-12 10 7 14-23" stroke="#f4b86a" stroke-width="3" fill="none" stroke-linecap="round"/>
+ <text x="603" y="106" fill="#f0f7fb" font-family="Arial,sans-serif" font-size="40" font-weight="700">2<tspan font-size="15" fill="#9bb3c2"> days</tspan></text>
+ <text x="541" y="142" fill="#f4b86a" font-family="Arial,sans-serif" font-size="16">Longest streak</text>
+ <text x="541" y="163" fill="#9bb3c2" font-family="Arial,sans-serif" font-size="12">Personal best</text>
+ <text x="26" y="202" fill="#7995a8" font-family="Arial,sans-serif" font-size="11">Actual GitHub activity · Snapshot 2026-11-10 · Live contribution graph on my profile</text></svg>
