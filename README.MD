@@ -1,34 +1,43 @@
-# Hi, I'm Dorian Emiliano 👋
+# Dorian Emiliano Rivera
 
-**Software development student**
+Estudiante de desarrollo de software. Construyo aplicaciones web, proyectos Android y sistemas embebidos; me interesa conectar interfaces claras con soluciones útiles.
 
-I enjoy building programs that work well and learning something new with every project. I'm currently practicing mobile development and uploading my academic and personal projects to GitHub.
+## Proyecto principal
 
-🎯 I'm looking for a **software development internship**.
+### [MusicMad](https://github.com/Dorian1804/musicmad-pwa)
 
-## Languages
+Plataforma musical con perfiles, publicaciones, bandas, eventos, chat y funciones de PWA. El repositorio público muestra su código y arquitectura; su documentación explica la configuración y las limitaciones de la copia publicada.
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css&theme=dark" alt="Languages" />
+## Portafolio
 
-## Technologies
-
-<img src="https://skillicons.dev/icons?i=androidstudio,mongodb,mysql,git,github&theme=dark" alt="Technologies" />
-
-## Currently Learning
-
-📱 Mobile development
-
-## Featured projects
-
-| Project | Description | Tech |
+| Área | Repositorio | Qué encontrarás |
 |---|---|---|
-| [c-pacientes-archivos-binarios](https://github.com/Dorian1804/c-pacientes-archivos-binarios) | Patient records system: add, list, search and edit entries using binary files | C |
-| [c-alumnos-archivos](https://github.com/Dorian1804/c-alumnos-archivos) | Student records program that reads and writes text files | C |
+| Aplicación musical | [MusicMad PWA](https://github.com/Dorian1804/musicmad-pwa) | PHP, JavaScript, MySQL y PWA |
+| Web | [Interfaces y aplicaciones web](https://github.com/Dorian1804/practicas-web) | HTML, CSS, JavaScript, PHP y proyectos de perfiles |
+| Móvil | [Android](https://github.com/Dorian1804/practicas-android) | Actividades, navegación y servicios en Java |
+| Electrónica | [ESP32 y Arduino](https://github.com/Dorian1804/practicas-esp32-arduino) | LEDs, botones, motor DC y captura de sensores |
+| Java | [Programación Java](https://github.com/Dorian1804/ejercicios-java) | Swing, concurrencia, clases y algoritmos |
+| Python | [Prácticas Python](https://github.com/Dorian1804/ejercicios-python) | Estructuras de datos e interfaces |
+| C / C++ | [Fundamentos y archivos](https://github.com/Dorian1804/ejercicios-c-cpp) | Registros, lectura y escritura |
+| Bases de datos | [SQL](https://github.com/Dorian1804/practicas-sql) | Esquemas y prácticas de consultas |
+| Bajo nivel | [Ensamblador](https://github.com/Dorian1804/ejercicios-ensamblador) | Ejercicios introductorios |
 
-*More projects in Java, Python, Android, SQL, MongoDB and web development coming soon.*
+## Proyectos de aprendizaje recientes
 
-## Contact
+- [Taskboard con React y Node.js](https://github.com/Dorian1804/practicas-web/tree/main/proyectos/taskboard-react-node): API local, persistencia y pruebas.
+- [Electronics Toolkit con Python](https://github.com/Dorian1804/ejercicios-python/tree/main/proyectos/electronics-toolkit): seis cálculos de electrónica con validación y pruebas.
+- [Multimedia 360 para Android](https://github.com/Dorian1804/practicas-android/tree/main/proyectos/multimedia360): reproducción local y layouts por orientación.
 
-- ✉️ Email: [emilianomdz.2019@gmail.com](mailto:emilianomdz.2019@gmail.com)
+## Tecnologías
 
-⭐ If any of my projects helped you, leave a star!
+**Lenguajes:** JavaScript, PHP, Python, Java, C/C++, SQL, HTML y CSS.
+
+**Herramientas:** Git, GitHub, VS Code, Android Studio, Arduino IDE y MySQL.
+
+**En aprendizaje y práctica:** React y Node.js, organización de APIs y pruebas automatizadas.
+
+## Cómo navegar
+
+Cada colección tiene un catálogo y cada carpeta un README con los archivos disponibles, requisitos y pasos para ejecutarla. Las variantes académicas se conservan identificadas; los proyectos nuevos de aprendizaje se documentan como tales.
+
+Busco oportunidades para aprender y colaborar en desarrollo de software. Puedes conocer mi trabajo comenzando por MusicMad y los catálogos anteriores.
